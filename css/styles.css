@@ -85,6 +85,9 @@
   box-sizing: border-box;
 }
 
+html, body {
+  background-color: #000;
+}
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
