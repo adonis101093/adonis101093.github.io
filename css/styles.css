@@ -119,16 +119,19 @@ html, body {
 @media (max-width: 576px) {
   .adonisCreed {
     height: unset;
-    width: 330px;
+    width: 370px;
   }
   .adonisLogo {
     width: 380px;
   }
+  .adonisTextWrap {
+    margin-top: 40px;
+  }
 }
 @media (min-width: 1100px) {
   .adonisCreed {
-    height: 45vh;
-    max-height: 600px;
+    height: 55vh;
+    max-height: 700px;
   }
   .adonisLogo {
     width: 50vh;
